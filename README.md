@@ -1,108 +1,105 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=650&height=70&duration=6000&lines=Hi+👋,+I'm+Mohammad+Ibrahim;Data+Science+%26+Artificial+Intelligence+Enthusiast;Turning+Data+into+Intelligence" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=700&height=70&duration=5000&lines=Hi+👋,+I'm+Md+Ibrahim;Data+Science+%26+Artificial+Intelligence;Building+Intelligent+Systems+for+the+Future" />
 </h1>
 
-<h3 align="center">🚀 Aspiring Data Scientist & AI Engineer from Bangladesh</h3>
-
 <p align="center">
-I am passionate about <b>Data Science</b>, <b>Artificial Intelligence</b>, and <b>Machine Learning</b>. I enjoy analyzing data, building intelligent models, and creating AI-powered solutions that solve real-world problems.
+  <img src="https://img.shields.io/badge/Data%20Science-2026-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-World%20Class-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Advanced-success?style=for-the-badge" />
 </p>
 
----
-
-## 👨‍💻 About Me
-
-* 🎓 Learning & building in **Data Science, Machine Learning, Deep Learning**
-* 🤖 Interested in **AI Research & Real-World Applications**
-* 📊 Strong focus on **Data Analysis, Visualization & Predictive Modeling**
-* 🌱 Currently improving skills in **Advanced ML & AI Systems**
-* 🎯 Goal: Become a **Professional Data Scientist & AI Engineer by 2026**
+<h3 align="center">🌍 World-Class Data Science & AI Developer from Bangladesh</h3>
 
 ---
 
-## 🧠 Skills & Technologies
+## 👤 About Me
+
+I am **Md Ibrahim**, a passionate **Data Science & Artificial Intelligence Developer** focused on building **modern, scalable, and intelligent systems**. I work at the intersection of **data, algorithms, and real-world problem solving**.
+
+* 🤖 Specialized in **AI, Machine Learning & Deep Learning**
+* 📊 Strong foundation in **Data Analysis & Predictive Modeling**
+* 🚀 Building **production-ready AI systems**
+* 🎯 Mission: Become a **world-class AI Engineer by 2026**
+
+---
+
+## 🧠 Core Expertise
 
 ### 📊 Data Science
 
-![Python, Pandas, NumPy, Matplotlib, Seaborn](https://skillicons.dev/icons?i=python)
-
-* Pandas • NumPy
-* Matplotlib • Seaborn
-* Data Cleaning & Feature Engineering
+* Data Cleaning & Preprocessing
 * Exploratory Data Analysis (EDA)
+* Feature Engineering
+* Statistical Analysis & Visualization
 
 ### 🤖 Machine Learning
 
 * Supervised & Unsupervised Learning
 * Regression • Classification • Clustering
-* Model Evaluation & Optimization
+* Model Evaluation & Hyperparameter Tuning
 * Scikit-learn
 
 ### 🧠 Deep Learning & AI
 
-![TensorFlow, PyTorch](https://skillicons.dev/icons?i=tensorflow,pytorch)
-
 * Neural Networks
 * CNN • RNN • LSTM
-* Computer Vision & NLP Basics
-* AI Model Deployment
-
-### 🗄️ Databases
-
-![MySQL, MongoDB](https://skillicons.dev/icons?i=mysql,mongodb)
-
-### 🛠️ Tools
-
-![Git, GitHub, VS Code, Jupyter](https://skillicons.dev/icons?i=git,github,vscode)
-
-* Jupyter Notebook
-* Google Colab
+* Computer Vision & NLP Fundamentals
+* TensorFlow & PyTorch
 
 ---
 
-## 🚀 Projects
-
-* 📈 **Data Analysis Projects** – Real-world datasets with insights & visualizations
-* 🤖 **Machine Learning Models** – Prediction & classification systems
-* 🧠 **AI Experiments** – Deep learning & neural network projects
-* 🌍 **End-to-End Data Science Projects** – From data collection to model deployment
-
----
-
-## 📊 GitHub Stats
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim23dev&theme=react&border_radius=10" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahim23dev&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim23dev&langs_count=8&layout=compact&theme=react&border_radius=10" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode" />
 </p>
 
 ---
 
-## 🤝 Collaboration & Opportunities
+## 🚀 Featured AI Projects
 
-* 📊 Data Science Projects
-* 🤖 AI / Machine Learning Research
-* 🧠 Deep Learning Applications
-
-📩 Reach out via email or GitHub for collaboration.
-
----
-
-## 📫 Connect with Me
-
-* 📧 Email: [ibrahim.soft.dev23@gmail.com](mailto:ibrahim.soft.dev23@gmail.com)
-* 💻 GitHub: [ibrahim23dev](https://github.com/ibrahim23dev)
-* ☕ Support: [Buy Me a Coffee](https://ko-fi.com/V7V4RAK9C)
+* 📈 **Data Science Projects** – Real-world datasets with business insights
+* 🤖 **Machine Learning Models** – Prediction, classification & clustering
+* 🧠 **Deep Learning Systems** – Neural network based solutions
+* 🌐 **End-to-End AI Pipelines** – From data to deployment
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimaidev26&theme=react&border_radius=12" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimaidev26&show_icons=true&theme=react&rank_icon=github&border_radius=12" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimaidev26&layout=compact&theme=react&border_radius=12" />
+</p>
+
+---
+
+## 🤝 Collaboration
+
+I am open to collaborating on:
+
+* 🤖 Artificial Intelligence Projects
+* 📊 Data Science & Analytics
+* 🧠 Machine Learning & Deep Learning Research
+
+---
+
+## 📫 Contact & Links
+
+* 📧 Email: **[ibrahim.ai.dev26@gmail.com](mailto:ibrahim.ai.dev26@gmail.com)**
+* 💻 GitHub: [ibrahimaidev26](https://github.com/ibrahimaidev26)
+
+---
+
+## 🐍 Contribution Graph
 
 ![Contribution Snake](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg)
 
 ---
 
-⭐ *“Data is the new oil, but AI is the engine.”*
+⭐ *"Data is powerful. AI makes it intelligent."*
