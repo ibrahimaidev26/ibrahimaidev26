@@ -70,7 +70,10 @@ I am **Md Ibrahim**, a passionate **Data Science & Artificial Intelligence Devel
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimaidev26&theme=react&border_radius=12" />
+  <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ibrahimaidev26&theme=react&hide_border=true&border_radius=12" />
+</p>
+
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=ibrahimaidev26&show_icons=true&theme=react&rank_icon=github&border_radius=12" />
   <br/>
